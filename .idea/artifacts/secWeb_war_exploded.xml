@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="secWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/secWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="secWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="secWeb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
